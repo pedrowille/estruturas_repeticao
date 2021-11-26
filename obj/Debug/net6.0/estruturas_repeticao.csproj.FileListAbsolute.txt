@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.exe
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.deps.json
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.dll
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\bin\Debug\net6.0\ref\estruturas_repeticao.dll
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.pdb
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.dll
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\obj\Debug\net6.0\ref\estruturas_repeticao.dll
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.pdb
+C:\Users\Usuario\Desktop\C#\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.genruntimeconfig.cache
