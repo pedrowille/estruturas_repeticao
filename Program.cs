@@ -31,6 +31,15 @@ foreach (string nome in listaNomes)
 {
 Console.WriteLine($"O nome da lista é: {nome}");
 }        
+        try
+        {
+Console.WriteLine("Digite um número:");
+        int numero=Convert.ToInt32(Console.ReadLine());
+        }
+        catch (Exception ex)
+        {
+Console.WriteLine($"Erro: {ex.Message}");
+        }
         }
     }
 }
